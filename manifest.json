@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "Teams Dialer",
+  "version": "1.0",
+  "description": "Dial numbers with MS Teams",
+  "permissions": ["activeTab", "contextMenus"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"]
+    }
+  ],
+  "icons": {
+    "48": "teams48.png"
+  },
+  "author": "DHCPizza"
+
+}
