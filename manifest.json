@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
   "name": "Teams Dialer",
-  "version": "1.0",
-  "description": "Dial numbers with MS Teams",
+  "version": "1.1",
+  "description": "Removes Spaces and Periods to be able to directly dial numbers with MS Teams",
   "permissions": ["activeTab", "contextMenus"],
   "background": {
     "service_worker": "background.js"
@@ -15,7 +15,5 @@
   ],
   "icons": {
     "48": "teams48.png"
-  },
-  "author": "DHCPizza"
-
+  }
 }
