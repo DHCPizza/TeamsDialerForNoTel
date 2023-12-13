@@ -1,14 +1,10 @@
-# DialWithTeams
+# TeamsDialerForNoTel
 
-Right-click on a phone number to initiate a call with Teams or any other VoIP service.
-
-- Ideal for situations where 'tel:' protocol is not automatically included
+Right-click on a phone number to initiate a call with Teams or any other VoIP service, especially useful when the standard 'tel:' protocol is not supported.
 
 - Automatically removes white spaces and periods from selected text
 
-  
 ![rightclick](https://github.com/DHCPizza/DialWithTeams/assets/59972478/367d13c4-bd8a-4e98-b038-bc185e3de26e)
-
 
 
 # Installation Steps
