@@ -1,16 +1,19 @@
 # DialWithTeams
 
-Right click phone number and dial with Teams (or any other voip sevice)
+Right-click on a phone number to initiate a call with Teams or any other VoIP service.
 
-- Strips out white spaces and periods
+- Ideal for situations where 'tel:' protocol is not automatically included
+
+- Automatically removes white spaces and periods from selected text
+
   
 ![rightclick](https://github.com/DHCPizza/DialWithTeams/assets/59972478/367d13c4-bd8a-4e98-b038-bc185e3de26e)
 
 
 
-# Install 
-1. Go to chrome://extensions/
+# Installation Steps
+1. Access Extensions: Open Chrome and navigate to chrome://extensions/ in the address bar.
 
-2. Top right, turn on Developer mode.
+2. Enable Developer Mode: In the top-right corner of the Extensions page, find and activate the 'Developer mode' toggle.
 
-3. Click Load unpacked.
+3. Load Extension: Select the 'Load unpacked' button to choose and install your unpacked extension.
