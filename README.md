@@ -1,4 +1,4 @@
-# TeamsDialerForNoTel
+# TeamsDialerForNoTel Chrome Extension
 
 Right-click on a phone number to initiate a call with Teams or any other VoIP service, especially useful when the standard 'tel:' protocol is not supported.
 
